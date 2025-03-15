@@ -1,0 +1,5 @@
+__pycache__/
+activate
+quick_start.sh
+.DS_Store
+.RAG

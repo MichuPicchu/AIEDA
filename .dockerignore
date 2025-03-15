@@ -1,0 +1,7 @@
+__pycache__/
+images/
+.DS_Store
+README.md
+dockerfile
+quick_start.sh
+.RAG
