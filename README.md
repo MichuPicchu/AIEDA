@@ -5,7 +5,7 @@
 
 ## ⚡ Quick introduction
 
-AIEDA is an AI tool, using Large Language Models (LLMs) designed to assist users, such as data scientists, in analyzing CSV datasets by providing actionable insights. Its primary functionalities include generating preprocessing strategies and feature engineering recommendations tailored to specific analytical goals, such as classification or regression. By intelligently assessing the dataset's structure and content, AIEDA offers essential guidance for optimizing data for effective model training and evaluation. Additionally, it can generate useful plots and graphs to enhance the analytical workflow.
+AIEDA is an AI tool, using Large Language Models (LLMs), designed to assist users, such as data scientists, in analyzing CSV datasets by providing actionable insights. Its primary functionalities include generating preprocessing strategies and feature engineering recommendations tailored to specific analytical goals, such as classification or regression. By intelligently assessing the dataset's structure and content, AIEDA offers essential guidance for optimizing data for effective model training and evaluation. Additionally, it can generate useful plots and graphs to enhance the analytical workflow.
 
 <video width="60%" controls>
   <source src="images/AIEDA.mp4" type="video/mp4">
